@@ -1,7 +1,7 @@
 <h1 align="center">Hi I'm Jazzmine</h1>
 <h3 align="center">I am a DLSU BS Information Systems graduating student. I am a back-end developer in Quezon City with experience in both web and mobile application development since 2019.</h3>
 
-- My projects: [https://devcover.me/portfolio/jazzmine07](https://devcover.me/portfolio/jazzmine07)
+- You can view my profile in LinkedIn: https://www.linkedin.com/in/mari-jazzmine-ilagan-1a96b2236/
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
